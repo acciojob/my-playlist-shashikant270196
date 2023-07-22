@@ -1,3 +1,9 @@
+*{
+	background-color:grey
+}
 .playlist{
 	padding-left:50%
+}
+.player_one{
+	background-color:white
 }
