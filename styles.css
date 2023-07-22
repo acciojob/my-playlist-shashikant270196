@@ -13,9 +13,9 @@
 	padding-right:10px;
 	width:300px;
 	height:300px;
-	display:flex;
-	justify-content:center;
-	alignitems:center;
+/* 	display:flex; */
+/* 	justify-content:center; */
+/* 	alignitems:center; */
 	background-color:white;
 	padding:10px;
 	border-radius:10px;
@@ -23,7 +23,7 @@
 	border-color: black;
 }
 .media{
-	border-radius:25px;
+	border-radius:10px;
 	width:350px;
 	height:400px;
 	background-color:white;
