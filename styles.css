@@ -5,12 +5,14 @@
 	padding-left:50%
 }
 .player_one{
-	background-color:white
+	background-color:white;
+	border-radius:2px;
+	
 }
 .vid{
 	display:flex;
 	justify-content:center;
-	align-items:center;
+	align-items:center
 	
 
 }
