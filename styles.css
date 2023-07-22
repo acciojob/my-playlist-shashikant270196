@@ -30,6 +30,10 @@
 /* 	display:flex; */
 	justify-content: center;
 }
+.media>tag{
+	background-color:white;
+	
+}
 
 
 
