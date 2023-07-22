@@ -2,11 +2,18 @@
 	background-color:grey
 }
 .playlist{
+	border:solid;
 	padding-left:50%
 }
 .player_one{
 	background-color:white;
 	border-radius:2px;
+		border:solid;
+	
+}
+.song{
+	color:black;
+	background-color:white;
 	
 }
 .vid{
@@ -33,6 +40,9 @@
 .tag{
 	background-color:white;
 	
+}
+.controls{
+	background-color:white:
 }
 
 
